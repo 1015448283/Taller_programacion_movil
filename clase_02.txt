@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <title> Taller-1-programacion movil</title>
+    <Style>
+        body{
+            font-family: Arial, sans.serif;
+            text-aling: center;
+            color:red
+        }
+    h1 {
+        font-size: 32 px
+        margin!bottom:20 px;
+        }
+    p {
+        font_size: 18 px;
+        margin: 8px 0;
+    }
+    </Style>
+</head>
+<body>
+    <h1> Taller-1-programación Móvil</h1>
+    <h2>Oliver Santiago Prada Gómez</h2>
+    <p><Strong>Numero de identificación</Strong>1015448283</p>
+    <p><Strong>Correo:</Strong>1015448283@teinco.edu.co</p>
+</body>
+</html>
